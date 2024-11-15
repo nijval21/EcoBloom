@@ -112,7 +112,7 @@ const Store = () => {
                             <div className="flex justify-between">
                                 <div>
                                     <h5 className="p-4 text-md md:text-xl text-gray-900">
-                                        EcoBloom T-Shirt
+                                        LEAF.io T-Shirt
                                     </h5>{" "}
                                 </div>
                                 <div className="px-4 py-2">
@@ -156,7 +156,7 @@ const Store = () => {
                             <div className="flex justify-between">
                                 <div>
                                     <h5 className="p-4 text-md md:text-xl text-gray-900">
-                                        EcoBloom Cap
+                                        LEAF.io Cap
                                     </h5>{" "}
                                 </div>
                                 <div className="px-4 py-2">
@@ -199,7 +199,7 @@ const Store = () => {
                             <div className="flex justify-between">
                                 <div>
                                     <h5 className="p-4 text-md md:text-xl text-gray-900 ">
-                                        EcoBloom JuteBag
+                                        LEAF.io JuteBag
                                     </h5>{" "}
                                 </div>
                                 <div className="px-4 py-2">
@@ -246,7 +246,7 @@ const Store = () => {
                             <div className="flex justify-between">
                                 <div>
                                     <h5 className="p-4 text-md md:text-xl text-gray-900 ">
-                                        EcoBloom Hoodie
+                                        LEAF.io Hoodie
                                     </h5>{" "}
                                 </div>
                                 <div className="px-4 py-2">
@@ -289,7 +289,7 @@ const Store = () => {
                             <div className="flex justify-between">
                                 <div>
                                     <h5 className="p-4 text-md md:text-xl text-gray-900 ">
-                                        EcoBloom Notebook
+                                        LEAF.io Notebook
                                     </h5>{" "}
                                 </div>
                                 <div className="px-4 py-2">
@@ -336,7 +336,7 @@ const Store = () => {
                             <div className="flex justify-between">
                                 <div>
                                     <h5 className="p-4 text-md md:text-xl text-gray-900 ">
-                                        EcoBloom Keychain
+                                        LEAF.io Keychain
                                     </h5>{" "}
                                 </div>
                                 <div className="px-4 py-2">

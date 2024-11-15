@@ -19,17 +19,17 @@ const Update_Contact_Number = ({ visible, onClose }) => {
         </div>
 
         <div className="flex flex-col lg:h-[25rem] lg:w-[36rem] rounded-lg p-4 bg-slate-100 overflow-scroll overflow-x-hidden">
-          <p>Welcome to EcoBloom-GDSC-challenge!</p>
+          <p>Welcome to LEAF.io-GDSC-challenge!</p>
 
           <p>
             These terms and conditions outline the rules and regulations for the
-            use of EcoBloom's Website, located at
+            use of LEAF.io's Website, located at
             https://ecobloom-gdsc-challenge.web.app/.
           </p>
 
           <p>
             By accessing this website we assume you accept these terms and
-            conditions. Do not continue to use EcoBloom-GDSC-challenge if you do
+            conditions. Do not continue to use LEAF.io-GDSC-challenge if you do
             not agree to take all of the terms and conditions stated on this
             page.
           </p>
@@ -57,8 +57,8 @@ const Update_Contact_Number = ({ visible, onClose }) => {
           </h3>
 
           <p>
-            We employ the use of cookies. By accessing EcoBloom-GDSC-challenge,
-            you agreed to use cookies in agreement with the EcoBloom's Privacy
+            We employ the use of cookies. By accessing LEAF.io-GDSC-challenge,
+            you agreed to use cookies in agreement with the LEAF.io's Privacy
             Policy.{" "}
           </p>
 
@@ -75,24 +75,24 @@ const Update_Contact_Number = ({ visible, onClose }) => {
           </h3>
 
           <p>
-            Unless otherwise stated, EcoBloom and/or its licensors own the
+            Unless otherwise stated, LEAF.io and/or its licensors own the
             intellectual property rights for all material on
-            EcoBloom-GDSC-challenge. All intellectual property rights are
-            reserved. You may access this from EcoBloom-GDSC-challenge for your
+            LEAF.io-GDSC-challenge. All intellectual property rights are
+            reserved. You may access this from LEAF.io-GDSC-challenge for your
             own personal use subjected to restrictions set in these terms and
             conditions.
           </p>
 
           <p>You must not:</p>
           <ul>
-            <li>Republish material from EcoBloom-GDSC-challenge</li>
+            <li>Republish material from LEAF.io-GDSC-challenge</li>
             <li>
-              Sell, rent or sub-license material from EcoBloom-GDSC-challenge
+              Sell, rent or sub-license material from LEAF.io-GDSC-challenge
             </li>
             <li>
-              Reproduce, duplicate or copy material from EcoBloom-GDSC-challenge
+              Reproduce, duplicate or copy material from LEAF.io-GDSC-challenge
             </li>
-            <li>Redistribute content from EcoBloom-GDSC-challenge</li>
+            <li>Redistribute content from LEAF.io-GDSC-challenge</li>
           </ul>
 
           <p>
@@ -107,18 +107,18 @@ const Update_Contact_Number = ({ visible, onClose }) => {
           <p>
             Parts of this website offer an opportunity for users to post and
             exchange opinions and information in certain areas of the website.
-            EcoBloom does not filter, edit, publish or review Comments prior to
+            LEAF.io does not filter, edit, publish or review Comments prior to
             their presence on the website. Comments do not reflect the views and
-            opinions of EcoBloom,its agents and/or affiliates. Comments reflect
+            opinions of LEAF.io,its agents and/or affiliates. Comments reflect
             the views and opinions of the person who post their views and
-            opinions. To the extent permitted by applicable laws, EcoBloom shall
+            opinions. To the extent permitted by applicable laws, LEAF.io shall
             not be liable for the Comments or for any liability, damages or
             expenses caused and/or suffered as a result of any use of and/or
             posting of and/or appearance of the Comments on this website.
           </p>
 
           <p>
-            EcoBloom reserves the right to monitor all Comments and to remove
+            LEAF.io reserves the right to monitor all Comments and to remove
             any Comments which can be considered inappropriate, offensive or
             causes breach of these Terms and Conditions.
           </p>
@@ -147,7 +147,7 @@ const Update_Contact_Number = ({ visible, onClose }) => {
           </ul>
 
           <p>
-            You hereby grant EcoBloom a non-exclusive license to use, reproduce,
+            You hereby grant LEAF.io a non-exclusive license to use, reproduce,
             edit and authorize others to use, reproduce and edit any of your
             Comments in any and all forms, formats or media.
           </p>
@@ -207,7 +207,7 @@ const Update_Contact_Number = ({ visible, onClose }) => {
             that: (a) the link would not make us look unfavorably to ourselves
             or to our accredited businesses; (b) the organization does not have
             any negative records with us; (c) the benefit to us from the
-            visibility of the hyperlink compensates the absence of EcoBloom; and
+            visibility of the hyperlink compensates the absence of LEAF.io; and
             (d) the link is in the context of general resource information.
           </p>
 
@@ -222,7 +222,7 @@ const Update_Contact_Number = ({ visible, onClose }) => {
           <p>
             If you are one of the organizations listed in paragraph 2 above and
             are interested in linking to our website, you must inform us by
-            sending an e-mail to EcoBloom. Please include your name, your
+            sending an e-mail to LEAF.io. Please include your name, your
             organization name, contact information as well as the URL of your
             site, a list of any URLs from which you intend to link to our
             Website, and a list of the URLs on our site to which you would like
@@ -242,7 +242,7 @@ const Update_Contact_Number = ({ visible, onClose }) => {
           </ul>
 
           <p>
-            No use of EcoBloom's logo or other artwork will be allowed for
+            No use of LEAF.io's logo or other artwork will be allowed for
             linking absent a trademark license agreement.
           </p>
 

@@ -118,7 +118,7 @@ const data = [
     //     name: "Sarah Thompson",
     //     img: p1,
     //     content:
-    //     "As an environmental activist, EcoBloom has revolutionized the way we organize and participate in campaigns. The platform's user-friendly interface and real-time progress tracking make it a game-changer. With EcoBloom, our collective efforts translate into visible impact.",
+    //     "As an environmental activist, LEAF.io has revolutionized the way we organize and participate in campaigns. The platform's user-friendly interface and real-time progress tracking make it a game-changer. With LEAF.io, our collective efforts translate into visible impact.",
     //     position: "Environmental Activist",
 
     // },
@@ -126,28 +126,28 @@ const data = [
         name: "Emily Chen",
         img: emilychen,
         content:
-            "As a student and eco-enthusiast, EcoBloom empowers me to engage my local community in eco-friendly initiatives, contributing to improved sustainability.",
+            "As a student and eco-enthusiast, LEAF.io empowers me to engage my local community in eco-friendly initiatives, contributing to improved sustainability.",
         position: "Student and Eco-Enthusiast",
     },
     {
         name: "James Anderson",
         img: james,
         content:
-            "As a tech entrepreneur, EcoBloom provides me with the platform to involve my local community in eco-friendly initiatives, thereby advancing sustainability goals.",
+            "As a tech entrepreneur, LEAF.io provides me with the platform to involve my local community in eco-friendly initiatives, thereby advancing sustainability goals.",
         position: "Tech Entrepreneur",
     },
     {
         name: "Dr. Maria Garcia",
         img: maria,
         content:
-            "As an environmental scientist, EcoBloom enables me to engage my local community in eco-friendly initiatives, driving forward sustainability efforts and goals.",
+            "As an environmental scientist, LEAF.io enables me to engage my local community in eco-friendly initiatives, driving forward sustainability efforts and goals.",
         position: "Environmental Scientist",
     },
     {
         name: "Raj Patel",
         img: raj,
         content:
-            "As a small business owner, EcoBloom allows me to involve my local community in eco-friendly initiatives, enhancing sustainability efforts and goals.",
+            "As a small business owner, LEAF.io allows me to involve my local community in eco-friendly initiatives, enhancing sustainability efforts and goals.",
         position: "Small Business Owner",
     },
 ];

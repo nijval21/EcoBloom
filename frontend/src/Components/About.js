@@ -31,10 +31,10 @@ export default function About() {
             data-aos-duration="1000"
             className="text-sm sm:text-lg md:text-xl px-4 py-2 lg:text-2xl tracking-wide text-center   text-[#DBDBDB] font-semibold mx-8"
           >
-            Welcome to EcoBloom, a thriving ecosystem where environmental
+            Welcome to LEAF.io, a thriving ecosystem where environmental
             enthusiasts, whether they're grassroots initiatives or established
             entities, come together to make a tangible difference in the world.
-            At EcoBloom, we're not just a platform; we're a vibrant community
+            At LEAF.io, we're not just a platform; we're a vibrant community
             dedicated to amplifying your environmental impact, designed to
             facilitate and incentivize cleanliness campaigns organized by
             various entities. Users can actively participate in campaigns, earn
@@ -44,7 +44,7 @@ export default function About() {
             <img
               src={about}
               className="hidden md:flex h-72 lg:w-96"
-              alt="ecobloom"
+              alt="LEAF.io"
             /> */}
         </div>
       </div>

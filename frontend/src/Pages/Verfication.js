@@ -26,7 +26,7 @@ const Verification = ({ visible, onClose }) => {
             <br /> Organisation to be verified.
           </div>
           <div className="text-sm text-center pt-2 text-[#4A4A4A] flex justify-center">
-            Mail us for help at: ecobloom7@gmail.com
+            Mail us for help at: LEAF.io7@gmail.com
           </div>
           <div className="flex justify-around mt-7 mb-5">
             <button

@@ -92,7 +92,7 @@ export default function Parallax() {
             id="parallaxText"
             className="font-bold drop-shadow-md font-serif absolute text-[3rem] lg:text-[4em] xl:text-[5em] text-white"
           >
-            EcoBloom
+            LEAF.io
           </h2>
           <img
             src={leaf}

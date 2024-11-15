@@ -49,7 +49,7 @@ export default function CreateCampaigns() {
                             className="mt-12 text-xl md:text-2xl text-[#dbdbdb] font-medium "
                         >
                             It doesn't matter if you're a grassroots initiative
-                            or an established entity. EcoBloom is your canvas to
+                            or an established entity. LEAF.io is your canvas to
                             amplify your environmental impact. Join us in this
                             collaborative effort, where every small action
                             contributes to a cleaner planet.
@@ -78,7 +78,7 @@ export default function CreateCampaigns() {
                             data-aos-duration="1000"
                             src={campaign}
                             className="hidden lg:block ml-8 w-[40rem]"
-                            alt="ecobloom"
+                            alt="LEAF.io"
                         />
                     </div>
                 </div>
